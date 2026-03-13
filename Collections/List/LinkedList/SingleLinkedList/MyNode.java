@@ -1,4 +1,4 @@
-package Collections.List.LinkedList;
+package Collections.List.LinkedList.SingleLinkedList;
 
 public class MyNode<G> {
     G value;

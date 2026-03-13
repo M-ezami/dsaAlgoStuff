@@ -1,7 +1,5 @@
 package Collections.List.LinkedList.SingleLinkedList;
 
-import Collections.List.LinkedList.MyLinkedList;
-
 public class Main {
     static void main() {
         MyLinkedList <Integer> newLinkedList = new MyLinkedList<>();
